@@ -1,11 +1,23 @@
-# Mi entorno de desarrollo
+# Nicolas Ruiz Colorado
 
-Configuración inicial:
-- Visual Studio Code
+## Desarrollador de Software en formación
+
+Aprendiz ADSO - SENA CTPI
+
+## Tecnologías
+
+- JavaScript
+- Python
+- Node.js
 - Git
 - GitHub
-- Node.js
-- Python
+- SQL
 
-Autor:
-Nicolas Ruiz Colorado
+## Proyectos destacados
+
+🚀 MentorOS  
+🚀 EDU-TEST-SOFT
+
+## Objetivo profesional
+
+Construir soluciones de software aplicando buenas prácticas de desarrollo, análisis y calidad.
