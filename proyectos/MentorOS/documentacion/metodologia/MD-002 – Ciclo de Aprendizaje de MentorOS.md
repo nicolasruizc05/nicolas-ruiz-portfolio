@@ -189,3 +189,83 @@ Si detecta dificultades:
 
 realiza un refuerzo breve;
 luego continúa con la nueva misión.
+
+# 5. Flujo general
+
+
+Registro
+
+↓
+
+Diagnóstico
+
+↓
+
+Mapa de competencias
+
+↓
+
+Ruta personalizada
+
+↓
+
+Misión
+
+↓
+
+Explicación
+
+↓
+
+Desafío
+
+↓
+
+Análisis
+
+↓
+
+Generación de evidencias
+
+↓
+
+¿Competencia dominada?
+
+↓
+
+Sí → Nueva misión
+
+No → Reforzamiento
+
+↓
+
+Repaso inteligente
+
+↓
+
+Continuar
+
+# 6. Evidencias de aprendizaje
+
+Evidencia	                    ||            Descripción
+===================================================================================
+Comprensión conceptual	        || Explica correctamente el concepto.
+Aplicación práctica	            || Utiliza el conocimiento para resolver ejercicios.
+Relación entre conceptos	    || Conecta el tema con conocimientos previos.
+Corrección de errores	        || Identifica y corrige sus propios errores.
+Explicación con sus palabras    || Demuestra comprensión sin repetir definiciones.
+Persistencia del conocimiento	|| Mantiene el dominio en sesiones posteriores.
+
+# 7. Reforzamiento inteligente
+
+No se trata de repetir un examen, sino de verificar que los conocimientos fundamentales siguen disponibles para construir aprendizajes posteriores.
+
+# 8. Resultado esperado
+
+Al finalizar el ciclo, el sistema mantiene actualizado el perfil de aprendizaje del estudiante, identificando:
+
+- Competencias dominadas.
+- Competencias en desarrollo.
+- Competencias que requieren reforzamiento.
+- Historial de evidencias.
+- Ruta personalizada actualizada.
