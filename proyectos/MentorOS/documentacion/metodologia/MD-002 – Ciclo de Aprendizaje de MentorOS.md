@@ -1,5 +1,17 @@
-# MD-002 – Ciclo de Aprendizaje de MentorOS
-## Modelo Pedagógico del Sistema
+# MD-002 - Ciclo de Aprendizaje de MentorOS
+
+## Información del documento
+
+| Campo | Valor |
+|--------|-------|
+| Código | MD-002 |
+| Nombre | Ciclo de Aprendizaje de MentorOS |
+| Tipo | Documento metodológico |
+| Estado | Aprobado |
+| Versión | 1.0 |
+| Proyecto | MentorOS |
+
+---
 
 # 1. Objetivo
 
